@@ -6,7 +6,11 @@
 		<!--<?php include("include/head.php");?> -->
 	</head>
 
+
 	<body>
+
+		<?php include ("includes/header.php");?>
+
 		<p>
 		I am a team focused Project Manager who reliably delivers results on time, and on budget.  After 15 years in the live entertainment industry I am putting my management skills to use in the tech world. My course work at Harvard Extension has provided me with a strong foundation in technology, and my years of professional experience give me a laser focus on stakeholder needs. 
 		</p> 
