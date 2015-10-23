@@ -1,3 +1,4 @@
+<div id="header">
 <div id="nav">
 	<ul>
 		<li id="navacbout"><a href="index.php">About Me</a></li>
@@ -10,8 +11,9 @@
 	<img src="images/logo.png" alt="Michael Patterson, Project Manager">
 </div>
 
-<div id="menus">
+<div id="menu">
 	<ul>
-		<!-- <li id="menuemail"><a href="email.php"><img src="images/email.png" alt="Contact me"></a></li> -->
+		<li id="menuemail"><a href="email.php"><img src="images/email.png" alt="Contact me"></a></li>
 	</ul>
+</div>
 </div>
