@@ -1,0 +1,11 @@
+img.profile {
+	height: 100px;
+	width: 100px;
+	float: right;
+}
+
+div#links{
+	float: left;
+	display: inline-block;
+	width: 20%;
+}

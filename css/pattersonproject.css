@@ -3,15 +3,13 @@ body {
 	/*background-image: url(../images/wing.png);*/
 	background-image: url(../images/background.jpg);
 	background-size: cover;
+	color: white;
+	background-color: rgb(1,58,217);
 
 }
 
 #content {
 	font-size: 100%;
+	color: white;
 }
 
-img.profile {
-	height: 100px;
-	width: 100px;
-	float: right;
-}

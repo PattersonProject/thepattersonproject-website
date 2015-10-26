@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title> Michael Patterson Project Manager </title>
-		<!-- <link rel="stylesheet" type="text/css" href="/css/index.css"> -->
+		<link rel="stylesheet" type="text/css" href="css/index.css">
 		<?php include("include/head.php");?> 
 	</head>
 
@@ -29,6 +29,10 @@
 			<p>
 			Contact me and lets discuss how we can make your next project a success! 
 			</p>
+			<div id="links">
+				Be sure to check out my <a href="http://www.linkedin.com/in/michaelpatterson10">Linked In</a> and <a href="https://github.com/PattersonProject">Github</a> pages.
+			</div>
 		</div>
+		
 	</body>
 </html>
