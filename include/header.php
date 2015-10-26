@@ -13,7 +13,7 @@
 
 	<div id="menu">
 		<ul>
-			<li id="menuemail"><a href="email.php"><img src="images/email.png" alt="Email me"></a></li>
+			<li id="menuemail"><a href="mailto:michael.pttrson@gmail.com"><img src="images/email.png" alt="Email me"></a></li>
 		</ul>
 	</div>
 </div>
