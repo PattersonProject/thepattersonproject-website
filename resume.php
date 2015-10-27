@@ -16,11 +16,11 @@
 		<div id="content">
 
 			<span>	
-			<a href="/content/Michael.Patterson.resume.pdf">Download  <img src="images/download-wht.png" alt="Download"> </a>
+			<a href="content/Michael.Patterson.Resume.pdf">Download  <img src="images/download-wht.png" alt="Download"> </a>
 			</span>
 
-			<object type="application/pdf" data="content/Michael.Patterson.resume.pdf">
-				<p> It looks like the pdf failed to load!  Download my resume <a href="content/Michael.Patterson.resume.pdf">here</a> ! </p>
+			<object type="application/pdf" data="content/Michael.Patterson.Resume.pdf">
+				<p> It looks like the pdf failed to load!  Download my resume <a href="content/Michael.Patterson.Resume.pdf">here</a> ! </p>
 			</object>
 		</div>
 	</body>
