@@ -8,7 +8,7 @@
 	</div>
 
 	<div id="logo">
-		<img src="images/logo white.png" alt="Michael Patterson, Project Manager">
+		<img src="images/logo-white.png" alt="Michael Patterson, Project Manager">
 	</div>
 
 	<div id="menu">
