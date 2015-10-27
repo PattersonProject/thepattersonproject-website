@@ -1,15 +1,31 @@
 body {
 	font-family: "Cantarell", verdana, sans-serif;
 	/*background-image: url(../images/wing.png);*/
-	background-image: url(../images/background.jpg);
-	background-size: cover;
-	color: white;
 	background-color: rgb(1,58,217);
-
-}
-
-#content {
+	background-image: url(../images/background.jpg);
+	background:
+		linear-gradient(
+			rgba(0,0,0,0.6),
+			rgba(0,0,0,0.5)
+			) fixed,
+			url(../images/background.jpg);
+	background-size: cover;
 	font-size: 100%;
 	color: white;
+	
+	
 }
 
+#content a:link {
+	color: rgb(108, 172, 245);
+	text-decoration: underline;
+}
+
+#content a:hover {
+	color: #6F6D6D;
+	text-decoration: underline;
+}
+
+.credits {
+	font-size: 50%;
+}

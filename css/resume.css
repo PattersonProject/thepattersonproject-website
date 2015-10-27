@@ -1,0 +1,21 @@
+
+#content span{
+	display: block;
+	float: left;
+	text-align: center;
+	padding: 2em 0;
+	width: 100%;
+}
+
+#content a > img{
+	height: 30px;
+	width: 30px;
+	padding: 0 3%;
+	vertical-align: middle;
+}
+
+#content object{
+	width: 80%;
+	min-height: 600px;
+	padding: 0 10%;
+}
