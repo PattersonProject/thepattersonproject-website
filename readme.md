@@ -1,7 +1,7 @@
 #Patterson Project webstie
 
 ##Live URL
-http://swww.thepattersonproject.com
+http://www.thepattersonproject.com
 
 ##Project Description
 My personal website
