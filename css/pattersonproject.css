@@ -27,5 +27,7 @@ body {
 }
 
 .credits {
-	font-size: 50%;
+	font-size: 70%;
+	position: fixed;
+	bottom: 0;
 }

@@ -8,9 +8,11 @@
 
 	<script type="text/javascript">
 		//iamhere navigation
-                var bodyid = $('#resume').get('class');
+            $(document).ready(function() {
+                var bodyid = $('body').attr('id');
                 console.log(bodyid);
-                var navid = '#nav' + 'resume';
+                var navid = '#nav' + bodyid;
                 console.log(navid);
                 $(navid).attr('id', 'iamhere');
+            });
 	</script>

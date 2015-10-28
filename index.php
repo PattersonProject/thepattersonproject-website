@@ -32,7 +32,7 @@
 			I built my previous career in a variety of arts organizations.  These experiences taught me the importance of high quality project management and strategic planning.  A live event has a hard deadline, and my project management skills have led to many successful opening nights.  I am an expert at building strong teams, and keeping them focused on the larger project goals.
 			</p>
 			<p>
-			Contact me and lets discuss how we can make your next project a success! 
+			Contact me and let's discuss how we can make your next project a success! 
 			</p>
 			<!-- <div id="links" class="blur">
 				<span>Contact me at <a href="+19177419221">917.741.9221</a> or <a href="mailto:michael.pttrson@gmail.com">michael.pttrson@gmail.com</a>.  </span>
