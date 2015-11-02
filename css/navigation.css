@@ -1,5 +1,5 @@
 #header{
-	border-bottom: 1px solid rgb(145,0,0);
+	border-bottom: 1px solid rgb(255, 120, 0);
 }
 
 #header div{
@@ -30,7 +30,7 @@
 }
 
 #nav ul li#iamhere{
-	color: rgb(210,30,30);
+	color: rgb(188, 89, 0);
 	font-weight: bold;
 }
 
