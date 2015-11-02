@@ -30,7 +30,8 @@
 }
 
 #nav ul li#iamhere{
-	color: rgb(96,0,0);
+	color: rgb(210,30,30);
+	font-weight: bold;
 }
 
 #logo img{
