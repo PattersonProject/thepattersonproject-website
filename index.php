@@ -20,7 +20,7 @@
 			</p> 
 			
 			<p>
-			I am passionate about pursuing my goals in my new field and I never stop learning. I have a proven track record of facing new challanges, such as a degree in a whole new field, and quickly learning new skills. Check out my <a href="resume.php">resume</a> to read a bit more about my qualifications and background.
+			I am passionate about pursuing my goals in my new field and I never stop learning. I have a proven track record of facing new challenges, such as a degree in a whole new field, and quickly learning new skills. Check out my <a href="resume.php">resume</a> to read a bit more about my qualifications and background.
 			</p>
 			<div id="links" class="blur">
 				<span>Contact me at <a href="+19177419221">917.741.9221</a> or <a href="mailto:michael.pttrson@gmail.com">michael.pttrson@gmail.com</a>.  </span>
