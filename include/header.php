@@ -3,7 +3,7 @@
 		<ul>
 			<li id="navhome"><a href="index.php">About Me</a></li>
 			<li id="navresume"><a href="resume.php">My Resume</a></li>
-			<!-- <li id="navprojects"><a href="projects.php">My Projects</a></li> -->
+			<li id="navprojects"><a href="projects.php">My Projects</a></li>
 		</ul>
 	</div>
 
