@@ -22,6 +22,8 @@
 			we, as a team, were confident that we could have implemented this project on schedule and on budget.</p>
 		</div>
 
+		<br><br><br>
+
 		<?php include("include/footer.php");?>
 		
 	</body>

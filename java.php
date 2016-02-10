@@ -24,6 +24,8 @@
 			<p>My approach was to have the main method in MovieToXML build each XML file by instantiating XMLElement objects based on query results. Once an XMLElement was built, including its child elements the attributes are queried and appended. It is then written to the appropriate XML file. When there are no more records in the query the file is completed and closed. The XMLElement class is written to be as versatile as possible, and can be used to write XML files in different applications as needed. The XMLElement class is responsible for appropriate indentations of the tags, while the main class keeps track of inline elements vs. open elements.</p>
 		</div>
 
+		<br><br><br>
+
 		<?php include("include/footer.php");?>
 		
 	</body>

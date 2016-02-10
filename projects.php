@@ -26,6 +26,8 @@
 		<p>Read more about this project <a href="java.php">here</a>.
 		</div>
 
+		<br><br><br>
+
 		<?php include("include/footer.php");?>
 		
 	</body>

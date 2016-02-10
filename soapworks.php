@@ -37,6 +37,8 @@
 				</ul>
 		</div>
 
+		<br><br><br>
+
 		<?php include("include/footer.php");?>
 		
 	</body>
