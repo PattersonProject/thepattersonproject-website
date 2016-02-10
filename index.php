@@ -29,7 +29,7 @@
 			</div>
 		
 			<p>
-			My project management skills have led to many successful opening nights. If you have a dynamic team environment that needs cohesion and efficiency I can use my skills to create strong, innovative solutions.  
+			My project management skills have led to many successful opening nights. If you have a dynamic team environment that needs cohesion and efficiency I will use my skills to create strong, innovative solutions.  
 			</p>
 			<!-- <div id="links" class="blur">
 				<span>Contact me at <a href="+19177419221">917.741.9221</a> or <a href="mailto:michael.pttrson@gmail.com">michael.pttrson@gmail.com</a>.  </span>
